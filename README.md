@@ -1,4 +1,4 @@
-# mycode1
+# mycode
 tracking my code
 # mycode (Project Title)
 
