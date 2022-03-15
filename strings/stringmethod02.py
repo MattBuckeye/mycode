@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Alta3 Research || Author: RZFeeser@alta3.com"""
 
-def main():
+def dog():
    """ Run-time code"""
    # create a small string
    lilstring = "Alta3 Research offers classes on Python coding"
@@ -16,5 +16,5 @@ def main():
    print(singleip)
 
 # call our main function
-main()
+dog()
 
